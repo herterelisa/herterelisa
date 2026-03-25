@@ -1,21 +1,33 @@
 <h1>
-  Elisa Herter &nbsp; 
+  Elisa Herter &nbsp; 🧬
 </h1>
-
 <p>
 Data Science senior at the University of Oregon with a minor in Biology. Passionate about applying <b>computational and statistical methods</b> to biological questions, from peatland carbon dynamics to endangered whale populations. Headed toward <b>bioinformatics</b>.
 </p>
-
 <hr style="width: 85%; margin-left: 0; border: 1px solid #ccc;" />
 
-<h2>Featured Projects</h2>
+<h2>🔬 Featured Projects</h2>
 
- <b>Southern Resident Killer Whale Climate-Toxin Model</b> — Stage-structured stochastic population model coupling climate-driven Chinook salmon decline to PCB blubber mobilization and extinction risk. Built in R.
- <b>Biodiversity Patterns in New York Counties</b> — EDA, bootstrap inference, and ridge regression predicting rare species counts from total richness across NY counties. Built in Python.
- <b>Air Quality CO Prediction</b> — ML regression model predicting carbon monoxide concentration from metal oxide sensor arrays using the UCI Air Quality dataset. Built in Python with scikit-learn.
+<b>🐋 Southern Resident Killer Whale Climate-Toxin Model</b> — R, R Markdown
+<ul>
+  <li>Built a stochastic matrix population model coupling climate-forced prey dynamics to a mechanistic PCB toxin sub-model</li>
+  <li>Parameterized 3 IPCC climate scenarios and simulated 100-year population and toxin trajectories across 4 life stages</li>
+  <li>Visualized multi-variable model outputs in ggplot2 to identify tipping points in toxin exposure under warming scenarios</li>
+</ul>
+
+<b>🦎 Biodiversity Patterns in New York Counties</b> — Python, scikit-learn
+<ul>
+  <li>Performed EDA and bootstrap inference to test whether total species richness predicts rare species counts across NY counties</li>
+  <li>Built and evaluated linear and ridge regression models using cross-validation and RMSE to estimate rare species abundance</li>
+</ul>
+
+<b>🌫️ Air Quality CO Prediction</b> — Python, scikit-learn
+<ul>
+  <li>Cleaned and preprocessed UCI Air Quality dataset handling missing values encoded as −200</li>
+  <li>Trained and evaluated a regression model to predict CO concentration from metal oxide sensor arrays using RMSE and R²</li>
+</ul>
 
 <hr style="width: 65%; margin-left: 0; border: 1px solid #ccc;" />
-
 <h2>🛠 Tech Stack</h2>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -33,7 +45,6 @@ Data Science senior at the University of Oregon with a minor in Biology. Passion
 </p>
 
 <hr style="width: 65%; margin-left: 0; border: 1px solid #ccc;" />
-
 <h2>🌱 Current Focus</h2>
 
 - 📍 Finishing my <b>B.S. in Data Science</b> with a <b>Biology minor</b> at the University of Oregon
@@ -41,9 +52,7 @@ Data Science senior at the University of Oregon with a minor in Biology. Passion
 - 🧬 Pursuing a career in <b>bioinformatics</b> where data science meets biology at the molecular and systems level
 - 🤝 <b>Open to research opportunities and internships</b> in bioinformatics, computational biology, or data-driven environmental science
 
-
 <hr style="width: 65%; margin-left: 0; border: 1px solid #ccc;" />
-
 <h2>Let's Connect</h2>
 <p>
 <a href="https://www.linkedin.com/in/elisa-herter/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
