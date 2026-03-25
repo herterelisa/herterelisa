@@ -8,20 +8,20 @@ Data Science senior at the University of Oregon with a minor in Biology. Passion
 
 <h2>🔬 Featured Projects</h2>
 
-<b>🐋 Southern Resident Killer Whale Climate-Toxin Model</b> — R, R Markdown
+<b> Southern Resident Killer Whale Climate-Toxin Model</b> — R
 <ul>
   <li>Built a stochastic matrix population model coupling climate-forced prey dynamics to a mechanistic PCB toxin sub-model</li>
   <li>Parameterized 3 IPCC climate scenarios and simulated 100-year population and toxin trajectories across 4 life stages</li>
   <li>Visualized multi-variable model outputs in ggplot2 to identify tipping points in toxin exposure under warming scenarios</li>
 </ul>
 
-<b>🦎 Biodiversity Patterns in New York Counties</b> — Python, scikit-learn
+<b> Biodiversity Patterns in New York Counties</b> — Python
 <ul>
   <li>Performed EDA and bootstrap inference to test whether total species richness predicts rare species counts across NY counties</li>
   <li>Built and evaluated linear and ridge regression models using cross-validation and RMSE to estimate rare species abundance</li>
 </ul>
 
-<b>🌫️ Air Quality CO Prediction</b> — Python, scikit-learn
+<b> Air Quality CO Prediction</b> — Python
 <ul>
   <li>Cleaned and preprocessed UCI Air Quality dataset handling missing values encoded as −200</li>
   <li>Trained and evaluated a regression model to predict CO concentration from metal oxide sensor arrays using RMSE and R²</li>
