@@ -1,5 +1,5 @@
 <h1>
-  Elisa Herter &nbsp; 🧬
+  Elisa Herter &nbsp; 
 </h1>
 <p>
 Data Science senior at the University of Oregon with a minor in Biology. Passionate about applying <b>computational and statistical methods</b> to biological questions, from peatland carbon dynamics to endangered whale populations. Headed toward <b>bioinformatics</b>.
