@@ -3,16 +3,16 @@
 </h1>
 
 <p>
-Data Science senior at the University of Oregon with a minor in Biology. Passionate about applying <b>computational and statistical methods</b> to biological questions — from peatland carbon dynamics to endangered whale populations. Headed toward <b>bioinformatics</b>.
+Data Science senior at the University of Oregon with a minor in Biology. Passionate about applying <b>computational and statistical methods</b> to biological questions, from peatland carbon dynamics to endangered whale populations. Headed toward <b>bioinformatics</b>.
 </p>
 
 <hr style="width: 85%; margin-left: 0; border: 1px solid #ccc;" />
 
 <h2>Featured Projects</h2>
 
-- 🐋 <b>Southern Resident Killer Whale Climate-Toxin Model</b> — Stage-structured stochastic population model coupling climate-driven Chinook salmon decline to PCB blubber mobilization and extinction risk. Built in R.
-- 🦎 <b>Biodiversity Patterns in New York Counties</b> — EDA, bootstrap inference, and ridge regression predicting rare species counts from total richness across NY counties. Built in Python.
-- 🌫️ <b>Air Quality CO Prediction</b> — ML regression model predicting carbon monoxide concentration from metal oxide sensor arrays using the UCI Air Quality dataset. Built in Python with scikit-learn.
+ <b>Southern Resident Killer Whale Climate-Toxin Model</b> — Stage-structured stochastic population model coupling climate-driven Chinook salmon decline to PCB blubber mobilization and extinction risk. Built in R.
+ <b>Biodiversity Patterns in New York Counties</b> — EDA, bootstrap inference, and ridge regression predicting rare species counts from total richness across NY counties. Built in Python.
+ <b>Air Quality CO Prediction</b> — ML regression model predicting carbon monoxide concentration from metal oxide sensor arrays using the UCI Air Quality dataset. Built in Python with scikit-learn.
 
 <hr style="width: 65%; margin-left: 0; border: 1px solid #ccc;" />
 
