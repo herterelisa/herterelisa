@@ -38,8 +38,7 @@ Data Science senior at the University of Oregon with a minor in Biology. Passion
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/tidyverse-1A9E74?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-<img src="https://img.shields.io/badge/ggplot2-1A9E74?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-1A9E74?style=for-the-badge&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/R%20Markdown-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
