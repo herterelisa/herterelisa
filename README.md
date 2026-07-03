@@ -36,7 +36,7 @@ Data Science senior at the University of Oregon with a minor in Biology. Passion
 <hr style="width: 65%; margin-left: 0; border: 1px solid #ccc;" />
 <h2>🌱 Current Focus</h2>
 
-- 📍 Finishing my <b>B.S. in Data Science</b> with a <b>Biology minor</b> at the University of Oregon
+- 📍 Finished my <b>B.S. in Data Science</b> with a <b>Biology minor</b> at the University of Oregon
 - 🔭 Applying computational methods to <b>ecological and biological datasets</b> — population modeling, species distributions, and environmental monitoring
 - 🧬 Pursuing a career in <b>bioinformatics</b> where data science meets biology at the molecular and systems level
 - 🤝 <b>Open to research opportunities and internships</b> in bioinformatics, computational biology, or data-driven environmental science
@@ -46,4 +46,5 @@ Data Science senior at the University of Oregon with a minor in Biology. Passion
 <p>
 <a href="https://www.linkedin.com/in/elisa-herter/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/herterelisa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:elisaherter07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
