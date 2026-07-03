@@ -43,6 +43,7 @@ Data Science senior at the University of Oregon with a minor in Biology. Passion
 
 <hr style="width: 65%; margin-left: 0; border: 1px solid #ccc;" />
 <h2>Let's Connect</h2>
+
 <p>
 <a href="https://www.linkedin.com/in/elisa-herter/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/herterelisa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
